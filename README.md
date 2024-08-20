@@ -15,6 +15,10 @@ Accelerate your development process and amplify productivity with VisualBoost!
 
 You can simply try VisualBoost on [app.visualboost.de](https://app.visualboost.de).
 
+# Documentation
+
+For more information check out our [documentation](https://wiki.visualboost.de).
+
 # How to start
 
 ---

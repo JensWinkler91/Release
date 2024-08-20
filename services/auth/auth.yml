@@ -28,5 +28,7 @@ services:
             - MAIL_PORT=${MAIL_PORT} #Necessary for email authentication
             - MAIL_USER=${MAIL_USER} #Necessary for email authentication
             - MAIL_PW=${MAIL_PW} #Necessary for email authentication
+            - GITHUB_CLIENT_ID=${GITHUB_CLIENT_ID} #Necessary for github oauth app
+            - GITHUB_CLIENT_SECRET=${GITHUB_CLIENT_SECRET} #Necessary for github oauth app
         depends_on:
             - mongodb_auth
